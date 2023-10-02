@@ -1,3 +1,7 @@
 hemanth welcomes you
 Charan Teja
+<<<<<<< HEAD
 Jyothi
+=======
+Hello my friend
+>>>>>>> b59d30d367135c8e2d2414afc99b56776eb3c1b9
